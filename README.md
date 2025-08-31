@@ -1,10 +1,10 @@
-# 🧠 AI Text Completion App
+#  AI Text Completion App
 
 A simple Python-based terminal app that connects to OpenAI's GPT-3.5 Turbo model using the OpenAI API. Users can input prompts, adjust creativity (temperature), and control output length.
 
 ---
 
-## 📦 Features
+##  Features
 
 - Text completion using OpenAI's GPT-3.5 Turbo
 - Adjustable `temperature` and `max_tokens` per session
@@ -14,7 +14,7 @@ A simple Python-based terminal app that connects to OpenAI's GPT-3.5 Turbo model
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
